@@ -159,6 +159,7 @@ header {
 	font-size: 24px;
 
 }
+
 .middleMain {
 	max-width: 905px;
 	width: 100%;
@@ -261,7 +262,7 @@ header {
 	font-size: 14px;
 	color: #1B003D;
 	margin-bottom: 8px;
-	
+
 }
 
 #fullText {
@@ -296,6 +297,7 @@ header {
 	font-size: 16px;
 	color: #6D5F8B;
 	margin-bottom: 24px;
+	resize: none;
 }
 
 .submitButton {
@@ -409,7 +411,7 @@ footer {
 .bottomFooter p {
 	font-size: 16px;
 	color: #D6BBFB;
-	
+
 }
 
 .pClass {
